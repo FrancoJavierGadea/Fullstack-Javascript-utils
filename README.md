@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="./css/main.css">
+
 
 # Full stack HTML CSS JavaScript Utils
 
@@ -250,3 +250,11 @@
 - `Recharts` React charts
   [](https://recharts.org/en-US/)
   [](https://github.com/recharts/recharts)
+
+
+
+<svg>
+    <style>
+        @import "./css/main.css"
+    </style>
+</svg>
