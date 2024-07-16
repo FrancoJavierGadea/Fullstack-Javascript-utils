@@ -1,19 +1,19 @@
-
+<link rel="stylesheet" href="./css/maiddnf.css">
 
 # Full stack HTML CSS JavaScript Utils
 
 ### CSS
 
 - `Bootstrap`
-  [](https://getbootstrap.com/)
+  [![](./css/logos/open.svg)](https://getbootstrap.com/)
 
 - `Pico css`
-  [](https://picocss.com/)
-  [](https://github.com/picocss/pico)
+  [![](./css/logos/open.svg)](https://picocss.com/)
+  [![](./css/logos/github.svg)](https://github.com/picocss/pico)
 
 - `Shiki Syntax highlighter`
-  [](https://shiki.style/)
-  [](https://github.com/shikijs/shiki)
+  [![](./css/logos/open.svg)](https://shiki.style/)
+  [![](./css/logos/github.svg)](https://github.com/shikijs/shiki)
 
 <br>
 
@@ -21,16 +21,16 @@
 ### Icons
 
 - `Bootstrap-icons`
-  [](https://icons.getbootstrap.com/)
+  [![](./css/logos/open.svg)](https://icons.getbootstrap.com/)
 
 - `Tabler Icons`
-  [](https://tablericons.com/)
+  [![](./css/logos/open.svg)](https://tablericons.com/)
 
 - `SVG-Repo`
-  [](https://www.svgrepo.com/)
+  [![](./css/logos/open.svg)](https://www.svgrepo.com/)
 
 - `Iconoir`
-  [](https://iconoir.com/)
+  [![](./css/logos/open.svg)](https://iconoir.com/)
 
 <br>
 
@@ -38,33 +38,33 @@
 ### Graficos `JavaScript`
 
 - `Cropper.js`
-  [](https://fengyuanchen.github.io/cropperjs/) 
-  [](https://github.com/fengyuanchen/cropperjs)
+  [![](./css/logos/open.svg)](https://fengyuanchen.github.io/cropperjs/) 
+  [![](./css/logos/github.svg)](https://github.com/fengyuanchen/cropperjs)
   
 - `Croppie`
-  [](https://foliotek.github.io/Croppie/) 
-  [](https://github.com/foliotek/croppie)
+  [![](./css/logos/open.svg)](https://foliotek.github.io/Croppie/) 
+  [![](./css/logos/github.svg)](https://github.com/foliotek/croppie)
 
 - `Rough.js`
-  [](https://roughjs.com/)
-  [](https://github.com/rough-stuff/rough)
+  [![](./css/logos/open.svg)](https://roughjs.com/)
+  [![](./css/logos/github.svg)](https://github.com/rough-stuff/rough)
 
 - `Rough-notation`
-  [](https://roughnotation.com/)
-  [](https://github.com/rough-stuff/rough-notation)
+  [![](./css/logos/open.svg)](https://roughnotation.com/)
+  [![](./css/logos/github.svg)](https://github.com/rough-stuff/rough-notation)
 
 - `D3.js`
-  [](https://d3js.org/)
-  [](https://github.com/d3/d3)
+  [![](./css/logos/open.svg)](https://d3js.org/)
+  [![](./css/logos/github.svg)](https://github.com/d3/d3)
 
 - `Lightweight-charts`
-  [](https://www.tradingview.com/lightweight-charts/)
-  [](https://github.com/tradingview/lightweight-charts)
+  [![](./css/logos/open.svg)](https://www.tradingview.com/lightweight-charts/)
+  [![](./css/logos/github.svg)](https://github.com/tradingview/lightweight-charts)
 
 
 - `P5.js` Canvas animations
-  [](https://p5js.org/)
-  [](https://github.com/processing/p5.js)
+  [![](./css/logos/open.svg)](https://p5js.org/)
+  [![](./css/logos/github.svg)](https://github.com/processing/p5.js)
 
 <br>
 
@@ -72,30 +72,30 @@
 ### Librerias
 
 - `Observables RX.js`
-  [](https://rxjs.dev/)
+  [![](./css/logos/open.svg)](https://rxjs.dev/)
 
 - `Grid.js`
-  [](https://gridjs.io/)
+  [![](./css/logos/open.svg)](https://gridjs.io/)
 
 - `Split.js`
-  [](https://split.js.org/)
-  [](https://github.com/nathancahill/split)
+  [![](./css/logos/open.svg)](https://split.js.org/)
+  [![](./css/logos/github.svg)](https://github.com/nathancahill/split)
 
 - `Howler.js`: Javascript audio library
-  [](https://howlerjs.com/)
-  [](https://github.com/goldfire/howler.js)
+  [![](./css/logos/open.svg)](https://howlerjs.com/)
+  [![](./css/logos/github.svg)](https://github.com/goldfire/howler.js)
 
 - `JSZip`: Reading and editing .zip files
-  [](https://stuk.github.io/jszip/)
-  [](https://github.com/Stuk/jszip)
+  [![](./css/logos/open.svg)](https://stuk.github.io/jszip/)
+  [![](./css/logos/github.svg)](https://github.com/Stuk/jszip)
 
 - `Driver.js` webpage tours
-  [](https://driverjs.com/)
-  [](https://github.com/kamranahmedse/driver.js)
+  [![](./css/logos/open.svg)](https://driverjs.com/)
+  [![](./css/logos/github.svg)](https://github.com/kamranahmedse/driver.js)
 
 - `PhotoSwipe` JavaScript image gallery
-  [](https://photoswipe.com/)
-  [](https://github.com/dimsemenov/photoswipe)
+  [![](./css/logos/open.svg)](https://photoswipe.com/)
+  [![](./css/logos/github.svg)](https://github.com/dimsemenov/photoswipe)
 
 <br>
 
@@ -104,8 +104,8 @@
 ### Node li
 
 - `tmi.js` JavaScript Package for Twitch Chat
-  [](https://tmijs.com/)
-  [](https://github.com/tmijs/tmi.js)
+  [![](./css/logos/open.svg)](https://tmijs.com/)
+  [![](./css/logos/github.svg)](https://github.com/tmijs/tmi.js)
 
 <br>
 
@@ -113,14 +113,14 @@
 ### Loaders
 
 - `Pure CSS Loaders`
-  [](https://loading.io/css/)
+  [![](./css/logos/open.svg)](https://loading.io/css/)
 
 - `Elegant terminal spinner`
-  [](https://github.com/sindresorhus/ora)
+  [![](./css/logos/github.svg)](https://github.com/sindresorhus/ora)
 
 - `React Content Loader` React Skeleton
-  [](https://skeletonreact.com/)
-  [](https://github.com/danilowoz/react-content-loader)
+  [![](./css/logos/open.svg)](https://skeletonreact.com/)
+  [![](./css/logos/github.svg)](https://github.com/danilowoz/react-content-loader)
 
 <br>
 
@@ -128,8 +128,8 @@
 ### Mail utils
 
 - `Resend`
-  [](https://resend.com/)
-  [](https://github.com/resend)
+  [![](./css/logos/open.svg)](https://resend.com/)
+  [![](./css/logos/github.svg)](https://github.com/resend)
 
 <br>
 
@@ -137,35 +137,35 @@
 ### CSS Utils
 
 - `Scrollbar.app` custom scrollbars generator
-  [](https://scrollbar.app/)
-  [](https://github.com/henripar/scrollbar)
+  [![](./css/logos/open.svg)](https://scrollbar.app/)
+  [![](./css/logos/github.svg)](https://github.com/henripar/scrollbar)
 
 - `Clippy` CSS clip-path maker
-  [](https://bennettfeely.com/clippy/)
-  [](https://github.com/bennettfeely/Clippy)
+  [![](./css/logos/open.svg)](https://bennettfeely.com/clippy/)
+  [![](./css/logos/github.svg)](https://github.com/bennettfeely/Clippy)
 
 - `getwaves`
-  [](https://getwaves.io/)
+  [![](./css/logos/open.svg)](https://getwaves.io/)
 
 - `Omatsuri app` 12 frontend tools
-  [](https://omatsuri.app/)
-  [](https://github.com/rtivital/omatsuri)
+  [![](./css/logos/open.svg)](https://omatsuri.app/)
+  [![](./css/logos/github.svg)](https://github.com/rtivital/omatsuri)
 
 - `Keyframes app` Visual CSS @keyframe editor
-  [](https://keyframes.app/)
-  [](https://github.com/mitchas/keyframes)
+  [![](./css/logos/open.svg)](https://keyframes.app/)
+  [![](./css/logos/github.svg)](https://github.com/mitchas/keyframes)
 
 - `Easings` Cubic Bezier Curves Generator
-  [](https://easings.co/)
+  [![](./css/logos/open.svg)](https://easings.co/)
 
 - `CSS Background Patterns`
-  [](https://www.magicpattern.design/tools/css-backgrounds)
+  [![](./css/logos/open.svg)](https://www.magicpattern.design/tools/css-backgrounds)
 
 - `Free svg backgrounds and patterns`
-  [](https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/)
+  [![](./css/logos/open.svg)](https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/)
 
 - `Glass UI` Glassmorphism CSS Generator
-  [](https://ui.glass/generator/)
+  [![](./css/logos/open.svg)](https://ui.glass/generator/)
 
 <br>
 
@@ -173,11 +173,11 @@
 ### Code and JSON Utils
 
 - `JSON Crack`
-  [](https://jsoncrack.com/editor)
-  [](https://github.com/AykutSarac/jsoncrack.com)
+  [![](./css/logos/open.svg)](https://jsoncrack.com/editor)
+  [![](./css/logos/github.svg)](https://github.com/AykutSarac/jsoncrack.com)
 
 - `Carbon app` beautiful images of your source code
-  [](https://carbon.now.sh/)
+  [![](./css/logos/open.svg)](https://carbon.now.sh/)
 
 <br>
 
@@ -185,11 +185,11 @@
 ### Regex utils
 
 - `RegExr` tool to build and test Regular Expressions
-  [](https://regexr.com/)
-  [](https://github.com/gskinner/regexr/)
+  [![](./css/logos/open.svg)](https://regexr.com/)
+  [![](./css/logos/github.svg)](https://github.com/gskinner/regexr/)
 
 - `RegEx Testing`
-  [](https://www.regextester.com/)
+  [![](./css/logos/open.svg)](https://www.regextester.com/)
 
 <br>
 
@@ -197,17 +197,17 @@
 ### Image utils
 
 - `Remove bg` Remove Image Background
-  [](https://www.remove.bg/)
+  [![](./css/logos/open.svg)](https://www.remove.bg/)
 
 - `SVGOMG` SVG Optimizer online
-  [](https://jakearchibald.github.io/svgomg/)
+  [![](./css/logos/open.svg)](https://jakearchibald.github.io/svgomg/)
 
 - `SVGO` SVG Optimizer
-  [](https://svgo.dev/)
-  [](https://github.com/svg/svgo)
+  [![](./css/logos/open.svg)](https://svgo.dev/)
+  [![](./css/logos/github.svg)](https://github.com/svg/svgo)
 
 - `SVGViewer`
-  [](https://www.svgviewer.dev/)
+  [![](./css/logos/open.svg)](https://www.svgviewer.dev/)
 
 <br>
 
@@ -215,22 +215,22 @@
 ### Docs
 
 - `Patrones de diseño` 
-  [patterns.dev](https://www.patterns.dev/)
+  [patterns.dev![](./css/logos/open.svg)](https://www.patterns.dev/)
 
 - `The Book of Shaders`
-  [](https://thebookofshaders.com/)
+  [![](./css/logos/open.svg)](https://thebookofshaders.com/)
 
 - `The Book of Shaders editor`
-  [](https://editor.thebookofshaders.com/)
+  [![](./css/logos/open.svg)](https://editor.thebookofshaders.com/)
 
 - `SVG tutorial`
-  [](https://svg-tutorial.com/)
+  [![](./css/logos/open.svg)](https://svg-tutorial.com/)
 
 - `SVG Paths`
-  [](https://www.nan.fyi/svg-paths)
+  [![](./css/logos/open.svg)](https://www.nan.fyi/svg-paths)
 
 - `Optimizing javascript for fun`
-  [](https://romgrk.com/posts/optimizing-javascript)
+  [![](./css/logos/open.svg)](https://romgrk.com/posts/optimizing-javascript)
 
 <br>
 
@@ -238,25 +238,18 @@
 ### React
 
 - `Styled-components`
-  [](https://styled-components.com/)
+  [![](./css/logos/open.svg)](https://styled-components.com/)
 
 - `React-bootstrap`
-  [](https://react-bootstrap.github.io/)
+  [![](./css/logos/open.svg)](https://react-bootstrap.github.io/)
 
 - `React-cropper`
-  [](https://react-cropper.github.io/react-cropper/) 
-  [](https://github.com/react-cropper/react-cropper)
+  [![](./css/logos/open.svg)](https://react-cropper.github.io/react-cropper/) 
+  [![](./css/logos/github.svg)](https://github.com/react-cropper/react-cropper)
 
 - `Recharts` React charts
-  [](https://recharts.org/en-US/)
-  [](https://github.com/recharts/recharts)
+  [![](./css/logos/open.svg)](https://recharts.org/en-US/)
+  [![](./css/logos/github.svg)](https://github.com/recharts/recharts)
 
 
 
-<svg>
-    <foreignObject>
-        <style>
-            @import "./css/main.css"
-        </style>
-    </foreignObject>
-</svg>
