@@ -3,8 +3,8 @@
 
 <svg
    width="20"
-   height="20"
-   viewBox="0 0 20 20"
+   height="25"
+   viewBox="0 0 20 25"
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
@@ -92,7 +92,7 @@
      id="layer1"><g
        style="fill:#ffffff"
        id="g1"
-       transform="translate(2,4)"><path
+       transform="translate(2,8)"><path
          fill-rule="evenodd"
          d="M 15,2 A 1,1 0 0 0 14,1 H 2 A 1,1 0 0 0 1,2 v 12 a 1,1 0 0 0 1,1 h 12 a 1,1 0 0 0 1,-1 z M 0,2 A 2,2 0 0 1 2,0 h 12 a 2,2 0 0 1 2,2 v 12 a 2,2 0 0 1 -2,2 H 2 A 2,2 0 0 1 0,14 Z m 5.854,8.803 A 0.50027817,0.50027817 0 1 1 5.146,10.096 L 9.243,6 H 6.475 a 0.5,0.5 0 1 1 0,-1 h 3.975 a 0.5,0.5 0 0 1 0.5,0.5 v 3.975 a 0.5,0.5 0 1 1 -1,0 V 6.707 Z"
          id="path1"
