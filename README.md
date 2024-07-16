@@ -254,7 +254,9 @@
 
 
 <svg>
-    <style>
-        @import "./css/main.css"
-    </style>
+    <foreignObject>
+        <style>
+            @import "./css/main.css"
+        </style>
+    </foreignObject>
 </svg>
