@@ -1,0 +1,9 @@
+[
+    { "key": "alt+s", "command": "saveAll" },
+
+    { "key": "alt+q", "command": "workbench.action.closeAllEditors" },
+
+    { "key": "ctrl+numpad_divide", "command": "editor.action.commentLine", "when": "editorTextFocus && !editorReadonly" },
+
+    { "key": "ctrl+numpad_multiply", "command": "editor.action.blockComment", "when": "editorTextFocus && !editorReadonly" }
+]
